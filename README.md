@@ -4,7 +4,7 @@ ZabbixでGeForce GTXの温度とファン速度を監視するテンプレート
 
 テストはCentOS7、Zabbix3.0で行ってます。
 
-![Image of Yaktocat](https://github.com/planethouki/images/blob/master/zabbixGPUtemperatureGraph.PNG)
+![Graph Image](https://github.com/planethouki/images/blob/master/zabbixGPUtemperatureGraph.PNG)
 
 ## server
 
